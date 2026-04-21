@@ -57,6 +57,7 @@ plt.legend()
 plt.show()
 
 ```
+
 ## Output:
 <img width="880" height="673" alt="Screenshot 2026-04-21 112015" src="https://github.com/user-attachments/assets/284ce01b-0283-433f-950e-03f29043f125" />
 
